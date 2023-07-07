@@ -1,2 +1,2 @@
-c.LabApp.collaborative = True
-c.LabApp.password = u'123'
+c.ServerApp.collaborative = True
+c.ServerApp.password = u'123'
