@@ -1,0 +1,1 @@
+c.ServerApp.collaborative = True
