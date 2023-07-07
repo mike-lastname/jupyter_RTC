@@ -1,1 +1,1 @@
-c.ServerApp.collaborative = True
+c.LabApp.collaborative = True
